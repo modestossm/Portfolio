@@ -31,3 +31,9 @@ npm run dev
 ## Deploy
 
 O deploy é feito automaticamente via GitHub Actions ao fazer push para a branch `main`. O site é hospedado na Vercel.
+
+## Licença
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
