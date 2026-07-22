@@ -51,7 +51,7 @@ export default function Contact() {
             <a href="https://github.com/modestossm" target="_blank" rel="noopener noreferrer" className="contact__social-link">
               GitHub
             </a>
-            <a href="https://linkedin.com/samuel-s-modesto" target="_blank" rel="noopener noreferrer" className="contact__social-link">
+            <a href="https://linkedin.com/in/samuel-s-modesto" target="_blank" rel="noopener noreferrer" className="contact__social-link">
               LinkedIn
             </a>
           </div>
