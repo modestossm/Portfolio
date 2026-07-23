@@ -32,6 +32,8 @@ npm run dev
 
 O deploy é feito automaticamente via GitHub Actions ao fazer push para a branch `main`. O site é hospedado na Vercel.
 
+🔗 **[Acesse o site aqui](https://portifolio-pi-seven-11.vercel.app/)**
+
 ## Licença
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
