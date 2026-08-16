@@ -15,29 +15,29 @@ const projects = [
     github: 'https://github.com/modestossm/Portfolio',
   },
   {
-    title: 'Plataforma E-Commerce',
+    title: 'Family Travel Tracker',
     description:
-      'Loja online completa com catálogo de produtos, carrinho de compras, integração de pagamentos com Stripe e painel administrativo.',
-    tech: ['React', 'Node.js', 'Express', 'PostgreSQL', 'Docker'],
-    live: '#',
-    github: '#',
+      'Aplicação para rastrear os países que cada membro da família já visitou, com mapa-múndi visual destacando os destinos por perfil, criação e alternância de membros e gerenciamento completo das viagens registradas.',
+    tech: ['Node.js', 'Express', 'EJS', 'PostgreSQL', 'Docker'],
+    live: 'portfolio-ejs.modssm.com.br',
+    github: 'https://github.com/modestossm/Projeto_EJS-Family-Travel-Tracker',
   },
-  {
-    title: 'CMS para Blog de Dev',
-    description:
-      'Blog alimentado por CMS headless com suporte a markdown, destaque de sintaxe e otimização para SEO.',
-    tech: ['Next.js', 'MDX', 'Tailwind', 'Vercel'],
-    live: '#',
-    github: '#',
-  },
-  {
-    title: 'App de Chat em Tempo Real',
-    description:
-      'Aplicação de chat baseada em Websockets com salas, mensagens diretas e compartilhamento de arquivos.',
-    tech: ['React', 'Express', 'Socket.io', 'PostgreSQL', 'Vitest'],
-    live: '#',
-    github: '#',
-  },
+  // {
+  //   title: 'CMS para Blog de Dev',
+  //   description:
+  //     'Blog alimentado por CMS headless com suporte a markdown, destaque de sintaxe e otimização para SEO.',
+  //   tech: ['Next.js', 'MDX', 'Tailwind', 'Vercel'],
+  //   live: '#',
+  //   github: '#',
+  // },
+  // {
+  //   title: 'App de Chat em Tempo Real',
+  //   description:
+  //     'Aplicação de chat baseada em Websockets com salas, mensagens diretas e compartilhamento de arquivos.',
+  //   tech: ['React', 'Express', 'Socket.io', 'PostgreSQL', 'Vitest'],
+  //   live: '#',
+  //   github: '#',
+  // },
 ];
 
 export default function Projects() {
