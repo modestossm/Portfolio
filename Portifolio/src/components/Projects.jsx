@@ -11,7 +11,7 @@ const projects = [
     description:
       'Site portfólio pessoal para desenvolvedores com apresentação de projetos, habilidades técnicas, animações suaves e design responsivo.',
     tech: ['React', 'Vite', 'GSAP', 'CSS', 'GitHub Actions'],
-    live: 'https://portifolio-pi-seven-11.vercel.app/',
+    live: 'https://www.modssm.com.br',
     github: 'https://github.com/modestossm/Portfolio',
   },
   {
