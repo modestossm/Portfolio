@@ -19,7 +19,7 @@ const projects = [
     description:
       'Aplicação para rastrear os países que cada membro da família já visitou, com mapa-múndi visual destacando os destinos por perfil, criação e alternância de membros e gerenciamento completo das viagens registradas.',
     tech: ['Node.js', 'Express', 'EJS', 'PostgreSQL', 'Docker'],
-    live: 'portfolio-ejs.modssm.com.br',
+    live: 'https://portfolio-ejs.modssm.com.br',
     github: 'https://github.com/modestossm/Projeto_EJS-Family-Travel-Tracker',
   },
   // {
